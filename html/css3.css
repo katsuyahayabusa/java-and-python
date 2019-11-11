@@ -1,0 +1,101 @@
+p{
+    font-family: 'Orkney';
+	border-width:3px;
+	border-style:double;
+	background-image: url(images/text_background.jpg);
+	opacity: 0.7;
+	color: white;
+	border-radius: 10px;
+	line-height: 160%;
+	padding-left: 10px;
+}
+
+body{
+	background-image:url(images/fond.jpg);
+	color: rgb(250,240,197);
+}
+
+h1{
+	background-image:url(images/fondtitre.png);
+	font-size:60px
+	background-repeat:;
+	text-align: center;
+	background-position: center;
+	color: #FFDAB9;
+	font-family: 'Slabo 27px';
+}
+h2{
+	font-family: 'Orkney';
+	background-color: #000080;
+	background-repeat: no-repeat;
+	width: 29%;
+	opacity: 0.9;
+}
+}
+.lien{
+	text-decoration: none;
+}
+.description{
+	color: brown;
+	font-style: italic;
+}
+#iconjava{
+	background-image: url(images/text_background.jpg);
+	border-radius: 30px;
+	position: relative;
+	float: left;
+	right: 40px;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+
+.exempleimage{
+	position: relative;
+	left: 500px;
+	top: 30px;
+}
+.subtitles{
+	text-align: center;
+	background: transparent;
+	border: none;
+	font-style: "Orkney";
+	font-style: italic;
+}
+
+ol{
+	font-family: 'Orkney';
+	border-width:3px;
+	border-style:double;
+	background-image: url(images/text_background.jpg);
+	opacity: 0.7;
+	color: white;
+	border-radius: 10px;
+	line-height: 160%;
+}
+
+#javaindent{
+	position: relative;
+	left: 500px;
+	top: 30px;
+
+}
+
+#pythonindent{
+	position: relative;
+	right: -500px;
+	top: 6px;
+}
+#programcode{
+	border: solid 1px;
+}
+
+#pythonicon{
+	margin-top: 1px;
+	float: left;
+	padding-right: 80px;
+	 
+}
+article{
+	margin-left: auto;
+	margin-right: auto;
+}

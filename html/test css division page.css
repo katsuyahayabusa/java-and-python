@@ -1,0 +1,75 @@
+#contenu {
+	max-width: 1200px;
+	margin-left: 180px;
+	background-image: url(images/fondtitre.png);
+	padding:1px;
+}
+p{
+    font-family: 'Orkney';
+	border-width:3px;
+	border-style:double;
+	background-image: url(images/text_background.jpg);
+	opacity: 0.7;
+	color: white;
+	border-radius: 10px;
+	line-height: 160%;
+	padding-left: 10px;
+}
+
+body{
+	background-image:url(images/fond.jpg);
+	color: rgb(250,240,197);
+}
+
+h1{
+	background-image:url(images/fondtitre.png);
+	font-size:60px
+	background-repeat:;
+	text-align: center;
+	background-position: center;
+	color: #FFDAB9;
+	font-family: 'Slabo 27px';
+}
+
+h2{
+	font-family: 'Orkney';
+	background-color: #000080;
+	background-repeat: no-repeat;
+	width: 29%;
+	opacity: 0.9;
+}
+
+#iconjava{
+	background-image: url(images/text_background.jpg);
+	border-radius: 30px;
+	position: relative;
+	float: left;
+	right: 40px;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+.subtitles{
+	text-align: center;
+	background: transparent;
+	border: none;
+	font-style: "Orkney";
+	font-style: italic;
+}
+
+ol{
+	font-family: 'Orkney';
+	border-width:3px;
+	border-style:double;
+	background-image: url(images/text_background.jpg);
+	opacity: 0.7;
+	color: white;
+	border-radius: 10px;
+	line-height: 160%;
+}
+
+#pythonicon{
+	margin-top: 10px;
+	float: left;
+	padding-right: 80px;
+	 
+}
